@@ -29,7 +29,7 @@ end
 
 ## Requirements
 
-Installs the `openssl` pacakge.
+Installs the `openssl` package.
 
 Tested on Ubuntu 14.04.
 
