@@ -27,6 +27,12 @@ certs_certificate "*.example.com" do
 end
 ```
 
+## Requirements
+
+Installs the `openssl` pacakge.
+
+Tested on Ubuntu 14.04.
+
 
 ## Attribution
 Based loosely on [cgravier/selfsigned_certificate](https://github.com/cgravier/selfsigned_certificate) and [VendaTech/chef-cookbook-ssl](https://github.com/VendaTech/chef-cookbook-ssl)
